@@ -6,6 +6,8 @@
 
 **Email:** [`baum22team@freakmail.de`](mailto:baum22team@freakmail.de)
 
+**Über uns:** Wir sind 2 Hobby-Programmieren aus Deutschland und wir haben uns überlegt eine GitHub-Organisation zu gründen um gemeinsam an einer Website und anderen Coding-Projekten zu arbeiten.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hier kommen alle Infos über Baum22Team hin. Alle Sachen unterm Strich kommen nicht in die `index.md` Datei.
