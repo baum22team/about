@@ -12,4 +12,4 @@
 
 Hier kommen alle Infos über Baum22Team hin. Alle Sachen unterm Strich kommen nicht in die `index.md` Datei.
 
-[Hilfe unter `Anleitungen/markdown-cheatsheet-online.pdf`](https://github.com/test22team/Anleitungen/blob/main/markdown-cheatsheet-online.pdf)
+Hilfe unter [`Anleitungen/markdown-cheatsheet-online.pdf`](https://github.com/test22team/Anleitungen/blob/main/markdown-cheatsheet-online.pdf)
