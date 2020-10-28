@@ -6,4 +6,4 @@
 
 **Email:** [`baum22team@freakmail.de`](mailto:baum22team@freakmail.de)
 
-**Über uns:** Wir sind 2 Hobby-Programmierer aus Deutschland und wir haben uns überlegt eine GitHub-Organisation zu gründen um gemeinsam an einer Website und anderen Coding-Projekten zu arbeiten.
+**Über uns:** Wir sind 3 Hobby-Programmierer aus Deutschland und wir haben uns überlegt eine GitHub-Organisation zu gründen um gemeinsam an einer Website und anderen Coding-Projekten zu arbeiten.
